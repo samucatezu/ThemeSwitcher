@@ -1,6 +1,6 @@
-<!-- <h1 align="center">
-  <a href="https://samucatezu.github.io/ThemeSwitcher/">Site do programa :alarm_clock: </a>
-</h1> -->
+<h1 align="center">
+  <a href="https://samucatezu.github.io/ThemeSwitcher/">Site do programa </a>
+</h1>
 
 <h1 align="center">
   Tela clara
