@@ -15,7 +15,7 @@
 </h1>
 
 <h1 style="display: flex" align="center">
-  <img alt="jsclock" title="jsclock" src="./.github/buylist.dark"  />
+  <img alt="jsclock" title="jsclock" src="./.github/dark.png"  />
 </h1>
 
 <br/>
