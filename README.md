@@ -27,7 +27,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 - HTML5
 - JavaScript
 
-## 🚀 Source
+
 
 <h1 align="center">
   <a href="https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2"> Source</a>
